@@ -1,0 +1,170 @@
+[
+  {
+    "id": "bracelet-coeur",
+    "name": "Bracelet C❤️EUR",
+    "price": "Dès 18 €",
+    "category": "Bracelets",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Rose pale",
+      "Parme",
+      "Jaune",
+      "Vert Pâle",
+      "Bleu",
+      "Menthe",
+      "Crème",
+      "Orange",
+      "Beige",
+      "Bleu ciel",
+      "Rouge",
+      "Bleu roi",
+      "Noir",
+      "Rose Fluo",
+      "Blanc",
+      "Rose",
+      "Chocolat",
+      "Bleu pâle",
+      "Bordeaux"
+    ],
+    "note": "Bracelet cœur coloré, à porter seul ou en accumulation."
+  },
+  {
+    "id": "maxi-coeur-leo",
+    "name": "Bracelet Maxi Coeur Léo",
+    "price": "Dès 25 €",
+    "category": "Bracelets",
+    "source": "https://lalittletribu.fr/collections/bracelets/products/bracelet-maxi-coeur-leo",
+    "variants": [
+      "Sans tissu",
+      "Avec tissu assorti"
+    ],
+    "note": "Le cœur iconique en version maxi."
+  },
+  {
+    "id": "maxi-coeur",
+    "name": "Bracelet MAXI C❤️EUR",
+    "price": "22 €",
+    "category": "Bracelets",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Rouge",
+      "Bleu marine"
+    ],
+    "note": "Version maxi du bracelet cœur."
+  },
+  {
+    "id": "saint-benoit",
+    "name": "Collier Médaille Saint Benoit le protecteur",
+    "price": "Dès 29 €",
+    "category": "Colliers",
+    "source": "https://lalittletribu.fr/products/collier-medaille-saint-benoit-le-protecteur",
+    "variants": [
+      "Voir options sur Lalittletribu"
+    ],
+    "note": "Médaille colorée associée à la protection."
+  },
+  {
+    "id": "iconique",
+    "name": "Collier Médaille en pierre naturelle - L'Iconique",
+    "price": "Dès 39 €",
+    "category": "Colliers",
+    "source": "https://lalittletribu.fr/products/collier-medaille-en-pierre-naturelle-liconique",
+    "variants": [
+      "Voir options sur Lalittletribu"
+    ],
+    "note": "Pierre naturelle et montage au choix."
+  },
+  {
+    "id": "pochette-bisous",
+    "name": "Pochette matelassée Bisous",
+    "price": "18 €",
+    "category": "Accessoires",
+    "source": "https://lalittletribu.fr/collections/accessoires/products/pochette-matelassee-bisous",
+    "variants": [
+      "Rouge",
+      "Crème",
+      "Bleu pâle"
+    ],
+    "note": "Pochette matelassée légère."
+  },
+  {
+    "id": "talisman",
+    "name": "Bracelet Talisman en Pierre Naturelle",
+    "price": "32 €",
+    "category": "Bracelets",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Voir options sur Lalittletribu"
+    ],
+    "note": "Pierre naturelle et cordon ajustable."
+  },
+  {
+    "id": "medaille-miraculeuse",
+    "name": "Médaille Miraculeuse colorée",
+    "price": "Dès 7 €",
+    "category": "Pendentifs",
+    "source": "https://lalittletribu.fr/collections/medailles-et-pendentifs",
+    "variants": [
+      "Jaune",
+      "Saumon",
+      "Orange",
+      "Bleu",
+      "Vert",
+      "Noir",
+      "Rose Fluo",
+      "Violet"
+    ],
+    "note": "Une médaille colorée à composer."
+  },
+  {
+    "id": "eclat",
+    "name": "Bracelet Eclat",
+    "price": "25 €",
+    "category": "Bracelets",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Modèle unique"
+    ],
+    "note": "Nouvelle référence bracelet."
+  },
+  {
+    "id": "croix",
+    "name": "Croix Pierres fines",
+    "price": "Dès 39 €",
+    "category": "Colliers",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Pierres fines"
+    ],
+    "note": "Croix en pierres fines."
+  },
+  {
+    "id": "coeur-enfant",
+    "name": "Bracelet COEUR Enfant",
+    "price": "15 €",
+    "category": "Enfant",
+    "source": "https://lalittletribu.fr/collections/nouveautes",
+    "variants": [
+      "Rose",
+      "Bleu",
+      "Blanc",
+      "Noir",
+      "Jaune",
+      "Vert Pâle",
+      "Beige",
+      "Bleu ciel",
+      "Violet",
+      "Rouge",
+      "Orange",
+      "Menthe",
+      "Bleu roi",
+      "Chocolat",
+      "Crème",
+      "Parme",
+      "Rose pale",
+      "Rose fluo",
+      "Bleu pâle"
+    ],
+    "note": "Le bracelet cœur pour les petits poignets."
+  }
+]
